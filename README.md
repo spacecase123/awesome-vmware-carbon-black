@@ -10,8 +10,10 @@
 
 ## Official Resources 
 - [User Community](https://community.carbonblack.com/)
+- [Tools by CB Threat Analysis Unit](https://github.com/carbonblack/tau-tools) 
 - [API Documentation](https://developer.carbonblack.com/)
 - [Github](https://github.com/carbonblack) 
+- [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
 - [Blog](https://www.carbonblack.com/blog/) 
 - [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) 
 - [Training](https://www.carbonblack.com/training/)
@@ -38,3 +40,6 @@
 
 ## CBC Live Response
 - [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004)
+
+## Threat Hunting
+- [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100)
