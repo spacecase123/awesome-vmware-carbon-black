@@ -34,7 +34,7 @@ A curated list of Carbon Black materials and resources.
 
 ## Threat Hunting
 - [Recon Hunt Queries](https://rhq.reconinfosec.com/) - Audit & Remediation queries for incident response & threat hunting
-- [osquery + ATT&CK](https:github.com/teoseller/osquery-attck) - Audit & Remediation queries mapped to MITRE ATT&CK Framework
+- [osquery + ATT&CK](https://github.com/teoseller/osquery-attck) - Audit & Remediation queries mapped to MITRE ATT&CK Framework
 - [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100)
 - [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099)
 
