@@ -25,6 +25,7 @@ A curated list of Carbon Black materials and resources.
 - [Github](https://github.com/carbonblack) 
 - [API Documentation](https://developer.carbonblack.com/) 
 - [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
+- [Binary Toolkit](https://github.com/carbonblack/cbc-binary-toolkit)
 
 ## Cloud Workload Protection
 - [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution
