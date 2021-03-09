@@ -58,6 +58,6 @@ A curated list of Carbon Black materials and resources.
 - [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
 - [Flexibly SOAR Toward API Functionality With Carbon Black](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1585033737089001NaRI)
 - [VMware Security: VMware Carbon Black Cloud and Workspace ONE Intelligence](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1584621522711001DIlS)
-
+- [XDR EDR: How VMware's Integrations Re-Shape Protecting Your Assets](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596214249540001Eav9)
 
 - [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Presentation
