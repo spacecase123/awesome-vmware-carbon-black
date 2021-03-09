@@ -5,10 +5,14 @@ A curated list of Carbon Black materials and resources.
 
 # Contents
 - [Official Resources](#official-resources)
-- [Integrations](#integrations)
-- [Endpoint Standard](#endpoint-standard)
+- [Carbon Black Cloud](#carbon-black-cloud)
+- [Cloud Workload Protection](#cloud-workload-protection)
+- [Threat Hunting](#threat-hunting)
 - [API](#api)
-- [Live Response](#live-response)
+- [Development](#development)
+- [Integrations](#integrations)
+- [VMworld 2020 Sessions](#VMworld-2020-sessions)
+- [MISC](#misc)
 
 ## Official Resources 
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more
@@ -17,6 +21,27 @@ A curated list of Carbon Black materials and resources.
 - [Carbon Black Blog](https://www.carbonblack.com/blog/) - Official Carbon Black blog posts 
 - [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) - Official Youtube channel
 - [Training](https://www.carbonblack.com/training/) - Official Training 
+
+## Carbon Black Cloud
+- [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation
+- [Kirk's Defense Kung Fu Blog](https://community.carbonblack.com/t5/Endpoint-Standard-Documents/Kirk-s-Defense-Kung-Fu-Blog/ta-p/67558)
+- [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832)
+- [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004)
+
+## Cloud Workload Protection
+- [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation
+- [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution
+
+## Threat Hunting
+- [Recon Hunt Queries](https://rhq.reconinfosec.com/) - Audit & Remediation queries for incident response & threat hunting
+- [osquery + ATT&CK](https:github.com/teoseller/osquery-attck) - Audit & Remediation queries mapped to MITRE ATT&CK Framework
+- [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100)
+- [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099)
+
+## CBC API
+- [Qt API](https://github.com/slist/cbapi-qt-demo)
+- [Automated Response Action](https://community.carbonblack.com/t5/Developer-Relations-Docs/PSC-LiveResponse-Via-Postman-Example-Automated-Response-Actions/ta-p/89567) - Automation of response actions with Live Response and Postman. 
+- [REST API Tutorial Using Postman](https://developer.carbonblack.com/2018/05/cb-defense-rest-api-tutorial-using-postman/)
 
 ## Development
 - [Github](https://github.com/carbonblack) 
@@ -29,29 +54,6 @@ A curated list of Carbon Black materials and resources.
 - [Workspace One](https://www.youtube.com/watch?v=bAZIxhkuJhU&t=189s) - Carbon Black / Workspace One integration feature walkthrough
 - [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration 
 - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise)
-
-## Carbon Black Cloud
-- [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation
-- [Kirk's Defense Kung Fu Blog](https://community.carbonblack.com/t5/Endpoint-Standard-Documents/Kirk-s-Defense-Kung-Fu-Blog/ta-p/67558)
-- [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832)
-
-## Cloud Workload Protection
-- [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation
-- [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution
-
-## CBC API
-- [Qt API](https://github.com/slist/cbapi-qt-demo)
-- [Automated Response Action](https://community.carbonblack.com/t5/Developer-Relations-Docs/PSC-LiveResponse-Via-Postman-Example-Automated-Response-Actions/ta-p/89567) - Automation of response actions with Live Response and Postman. 
-- [REST API Tutorial Using Postman](https://developer.carbonblack.com/2018/05/cb-defense-rest-api-tutorial-using-postman/)
-
-## CBC Live Response
-- [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004)
-
-## Threat Hunting
-- [Recon Hunt Queries](https://rhq.reconinfosec.com/) - Audit & Remediation queries for incident response & threat hunting
-- [osquery + ATT&CK](https:github.com/teoseller/osquery-attck) - Audit & Remediation queries mapped to MITRE ATT&CK Framework
-- [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100)
-- [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099)
 
 ## VMworld 2020 Sessions
 - [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
