@@ -1,4 +1,7 @@
-# Awesome VMware Carbon Black [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome VMware Carbon Black 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+A curated list of Carbon Black materials and resources.
 
 # Contents
 - [Official Resources](#official-resources)
@@ -20,6 +23,9 @@
 - [Training](https://www.carbonblack.com/training/)
 - [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html)
 - [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html)
+
+## Blogs
+- [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution
 
 ## Integrations
 - [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk
@@ -45,3 +51,13 @@
 ## Threat Hunting
 - [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100)
 - [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099)
+
+## VMworld 2020 Sessions
+- [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
+- [Intro to VMware Carbon Black Cloud Workload](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280213246001WZKr)
+- [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
+- [Flexibly SOAR Toward API Functionality With Carbon Black](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1585033737089001NaRI)
+- [VMware Security: VMware Carbon Black Cloud and Workspace ONE Intelligence](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1584621522711001DIlS)
+
+
+- [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Presentation
