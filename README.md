@@ -17,7 +17,7 @@ A curated list of Carbon Black materials and resources.
 ## Official Resources 
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more
 - [TAU Tools](https://github.com/carbonblack/tau-tools) - Tools developed by the Threat Analysis Unit
-- [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series about latest threats and security challenges
+- [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series on latest threats and security challenges
 - [Carbon Black Blog](https://www.carbonblack.com/blog/) - Official Carbon Black blog posts 
 - [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) - Official Youtube channel
 - [Training](https://www.carbonblack.com/training/) - Official Training 
