@@ -13,15 +13,20 @@ A curated list of Carbon Black materials and resources.
 
 ## Official Resources 
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more
-- [Tools by CB Threat Analysis Unit](https://github.com/carbonblack/tau-tools) 
+- [TAU Tools](https://github.com/carbonblack/tau-tools) - Tools developed by the Threat Analysis Unit
 - [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series about latest threats and security challenges
-- [Blog](https://www.carbonblack.com/blog/) 
+- [Carbon Black Blog](https://www.carbonblack.com/blog/) 
 - [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) 
 - [Training](https://www.carbonblack.com/training/)
 - [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html)
 - [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html)
 
-## Blogs
+## Development
+- [Github](https://github.com/carbonblack) 
+- [API Documentation](https://developer.carbonblack.com/) 
+- [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
+
+## Cloud Workload Protection
 - [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution
 
 ## Integrations
@@ -41,6 +46,7 @@ A curated list of Carbon Black materials and resources.
 ## CBC API
 - [Qt API](https://github.com/slist/cbapi-qt-demo)
 - [Automated Response Action](https://community.carbonblack.com/t5/Developer-Relations-Docs/PSC-LiveResponse-Via-Postman-Example-Automated-Response-Actions/ta-p/89567) - Automation of response actions with Live Response and Postman. 
+- [REST API Tutorial Using Postman](https://developer.carbonblack.com/2018/05/cb-defense-rest-api-tutorial-using-postman/)
 
 ## CBC Live Response
 - [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004)
@@ -56,11 +62,9 @@ A curated list of Carbon Black materials and resources.
 - [Flexibly SOAR Toward API Functionality With Carbon Black](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1585033737089001NaRI)
 - [VMware Security: VMware Carbon Black Cloud and Workspace ONE Intelligence](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1584621522711001DIlS)
 - [XDR EDR: How VMware's Integrations Re-Shape Protecting Your Assets](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596214249540001Eav9)
+- [Become a Threat Hunter](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591217036405001PNXo)
 
-- [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Presentation
 
-
-## Development
-- [Github](https://github.com/carbonblack) 
-- [API Documentation](https://developer.carbonblack.com/) 
-- [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
+## MISC
+- [What Ports must be opened on the Firewall and Proxy Servers?](https://community.carbonblack.com/t5/Knowledge-Base/Carbon-Black-Cloud-What-Ports-must-be-opened-on-the-Firewall-and/ta-p/36295)
+- [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s)
