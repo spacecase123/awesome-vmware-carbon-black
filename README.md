@@ -15,10 +15,10 @@ A curated list of Carbon Black materials and resources.
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more
 - [TAU Tools](https://github.com/carbonblack/tau-tools) - Tools developed by the Threat Analysis Unit
 - [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series about latest threats and security challenges
-- [Carbon Black Blog](https://www.carbonblack.com/blog/) 
-- [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) 
-- [Training](https://www.carbonblack.com/training/)
-- [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html)
+- [Carbon Black Blog](https://www.carbonblack.com/blog/) - Official Carbon Black blog posts 
+- [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) - Official Youtube channel
+- [Training](https://www.carbonblack.com/training/) - Official Training 
+
 - [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html)
 
 ## Development
@@ -28,6 +28,7 @@ A curated list of Carbon Black materials and resources.
 - [Binary Toolkit](https://github.com/carbonblack/cbc-binary-toolkit)
 
 ## Cloud Workload Protection
+- [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation
 - [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution
 
 ## Integrations
@@ -37,6 +38,7 @@ A curated list of Carbon Black materials and resources.
 - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise)
 
 ## CBC Endpoint Standard
+- [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation
 - [Kirk's Defense Kung Fu Blog](https://community.carbonblack.com/t5/Endpoint-Standard-Documents/Kirk-s-Defense-Kung-Fu-Blog/ta-p/67558)
 - [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832)
 
