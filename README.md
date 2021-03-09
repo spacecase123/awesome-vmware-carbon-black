@@ -15,9 +15,6 @@ A curated list of Carbon Black materials and resources.
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more
 - [Tools by CB Threat Analysis Unit](https://github.com/carbonblack/tau-tools) 
 - [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series about latest threats and security challenges
-- [API Documentation](https://developer.carbonblack.com/) 
-- [Github](https://github.com/carbonblack) 
-- [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
 - [Blog](https://www.carbonblack.com/blog/) 
 - [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) 
 - [Training](https://www.carbonblack.com/training/)
@@ -61,3 +58,9 @@ A curated list of Carbon Black materials and resources.
 - [XDR EDR: How VMware's Integrations Re-Shape Protecting Your Assets](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596214249540001Eav9)
 
 - [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Presentation
+
+
+## Development
+- [Github](https://github.com/carbonblack) 
+- [API Documentation](https://developer.carbonblack.com/) 
+- [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
