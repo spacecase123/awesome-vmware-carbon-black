@@ -12,7 +12,7 @@ A curated list of Carbon Black materials and resources.
 - [Development](#development)
 - [Integrations](#integrations)
 - [VMworld 2020 Sessions](#VMworld-2020-sessions)
-- [MISC](#misc)
+
 
 ## Official Resources 
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more
@@ -24,10 +24,12 @@ A curated list of Carbon Black materials and resources.
 
 ## Carbon Black Cloud
 - [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation
-- [Network Setup](https://community.carbonblack.com/t5/Knowledge-Base/Carbon-Black-Cloud-What-Ports-must-be-opened-on-the-Firewall-and/ta-p/36295) - What Ports must be opened on the Firewall and Proxy Servers
+- [Network Setup](https://community.carbonblack.com/t5/Knowledge-Base/Carbon-Black-Cloud-What-Ports-must-be-opened-on-the-Firewall-and/ta-p/36295) - Ports to be opened on the Firewall and Proxy Servers
 - [Kirk's Defense Kung Fu Blog](https://community.carbonblack.com/t5/Endpoint-Standard-Documents/Kirk-s-Defense-Kung-Fu-Blog/ta-p/67558) - One of the best sources for good pactises and tips 
-- [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832) - Tips for improving policies 
-- [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004)
+- [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832) - Tips for developing policies and improving them 
+- [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004) 
+- [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s)
+
 
 ## Cloud Workload Protection
 - [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation
@@ -37,8 +39,8 @@ A curated list of Carbon Black materials and resources.
 - [Recon Hunt Queries](https://rhq.reconinfosec.com/) - Audit & Remediation queries for incident response & threat hunting
 - [osquery + ATT&CK](https://github.com/teoseller/osquery-attck) - Audit & Remediation queries mapped to MITRE ATT&CK Framework
 - [osquery across compliance, monitoring, risk, and threat hunting](https://www.youtube.com/watch?v=zQFXLm-SweY&t=5s) - Talk on osquery by Hugh Neale
-- [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100)
-- [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099)
+- [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100) - Hunting WinRM misuse
+- [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099) - Hunt for malicious svchost
 
 ## CBC API
 - [Qt API](https://github.com/slist/cbapi-qt-demo)
@@ -65,6 +67,3 @@ A curated list of Carbon Black materials and resources.
 - [VMware Security: VMware Carbon Black Cloud and Workspace ONE Intelligence](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1584621522711001DIlS)
 - [XDR EDR: How VMware's Integrations Re-Shape Protecting Your Assets](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596214249540001Eav9)
 - [Become a Threat Hunter](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591217036405001PNXo)
-
-## MISC
-- [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s)
