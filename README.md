@@ -45,9 +45,9 @@ A curated list of Carbon Black materials and resources.
 - [REST API Tutorial Using Postman](https://developer.carbonblack.com/2018/05/cb-defense-rest-api-tutorial-using-postman/)
 
 ## Development
-- [Github](https://github.com/carbonblack) 
-- [API Documentation](https://developer.carbonblack.com/) 
-- [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
+- [Github](https://github.com/carbonblack) - Official Carbon Black Github repository
+- [API Documentation](https://developer.carbonblack.com/) - Official API documentation for all Carbon Black products 
+- [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python) - Official Carbon Black Software Development Kit for Python 3.6 and above
 - [Binary Toolkit](https://github.com/carbonblack/cbc-binary-toolkit)
 
 ## Integrations
@@ -66,5 +66,4 @@ A curated list of Carbon Black materials and resources.
 - [Become a Threat Hunter](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591217036405001PNXo)
 
 ## MISC
-
 - [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s)
