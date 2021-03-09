@@ -9,9 +9,10 @@
 - [Live Response](#live-response)
 
 ## Official Resources 
-- [User Community](https://community.carbonblack.com/)
+- [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more
 - [Tools by CB Threat Analysis Unit](https://github.com/carbonblack/tau-tools) 
-- [API Documentation](https://developer.carbonblack.com/)
+- [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series about latest threats and security challenges
+- [API Documentation](https://developer.carbonblack.com/) 
 - [Github](https://github.com/carbonblack) 
 - [Python SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python)
 - [Blog](https://www.carbonblack.com/blog/) 
@@ -43,3 +44,4 @@
 
 ## Threat Hunting
 - [WinRM Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/WinRM-Threat-Hunting-Part-1/ta-p/88100)
+- [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099)
