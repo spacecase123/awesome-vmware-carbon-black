@@ -1,5 +1,5 @@
 # Awesome VMware Carbon Black 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of Carbon Black materials and resources.
 
