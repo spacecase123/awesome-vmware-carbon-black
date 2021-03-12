@@ -55,6 +55,7 @@ A curated list of Carbon Black materials and resources.
 
 ## Integrations
 - [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk. 
+- [Carbon Black App for Splunk](https://www.securefever.com/blog/carbon-black-app-for-splunk) - Blog on setting up the Carbon Black App for Splunk.
 - [Workspace One](https://www.youtube.com/watch?v=bAZIxhkuJhU&t=189s) - Carbon Black / Workspace One integration feature walkthrough.
 - [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration with Siemplify.
 - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise).
