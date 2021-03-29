@@ -34,7 +34,7 @@ A curated list of Carbon Black materials and resources.
 ## Cloud Workload Protection
 - [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation.
 - [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution.
-- [Container Security: VMC on AWS](https://www.securefever.com/blog/vmware-carbon-black-cloud-container-security-with-vmc-on-aws)VMware Carbon Black Cloud Container Security with VMC on AWS
+- [Container Security: VMC on AWS](https://www.securefever.com/blog/vmware-carbon-black-cloud-container-security-with-vmc-on-aws) - VMware Carbon Black Cloud Container Security with VMC on AWS
 
 ## Threat Hunting
 - [Recon Hunt Queries](https://rhq.reconinfosec.com/) - Audit & Remediation queries for incident response & threat hunting.
