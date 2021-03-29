@@ -34,6 +34,7 @@ A curated list of Carbon Black materials and resources.
 ## Cloud Workload Protection
 - [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation.
 - [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution.
+- [Container Security: VMC on AWS](https://www.securefever.com/blog/vmware-carbon-black-cloud-container-security-with-vmc-on-aws)VMware Carbon Black Cloud Container Security with VMC on AWS
 
 ## Threat Hunting
 - [Recon Hunt Queries](https://rhq.reconinfosec.com/) - Audit & Remediation queries for incident response & threat hunting.
@@ -54,12 +55,15 @@ A curated list of Carbon Black materials and resources.
 - [Binary Toolkit](https://github.com/carbonblack/cbc-binary-toolkit)
 
 ## Integrations
-- [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk. 
-- [Columbus Splunk UG Aug 18 2020](https://www.youtube.com/watch?v=jnvmb5pqnxI) - Review of Carbon Black Splunk Add-on and Threat Hunter Dashboard
-- [Carbon Black App for Splunk](https://www.securefever.com/blog/carbon-black-app-for-splunk) - Blog on setting up the Carbon Black App for Splunk.
-- [Workspace One](https://www.youtube.com/watch?v=bAZIxhkuJhU&t=189s) - Carbon Black / Workspace One integration feature walkthrough.
-- [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration with Siemplify.
-- [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise).
+- **[Splunk]**
+  - [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk. 
+  - [Columbus Splunk UG Aug 18 2020](https://www.youtube.com/watch?v=jnvmb5pqnxI) - Review of Carbon Black Splunk Add-on and Threat Hunter Dashboard
+  - [Carbon Black App for Splunk](https://www.securefever.com/blog/carbon-black-app-for-splunk) - Blog on setting up the Carbon Black App for Splunk.
+- **[Other Integrations]**
+  - [Workspace ONE](https://www.youtube.com/watch?v=bAZIxhkuJhU&t=189s) - Carbon Black / Workspace One integration feature walkthrough.
+  - [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration with Siemplify.
+  - [Zscaler](https://www.youtube.com/watch?v=dfF-JPmlaXA&t=1s) - [Demo] VMWare Carbon Black and Zscaler in Action
+  - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise).
 
 ## VMworld 2020 Sessions
 - [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
