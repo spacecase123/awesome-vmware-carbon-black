@@ -59,6 +59,8 @@ A curated list of Carbon Black materials and resources.
   - [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk. 
   - [Columbus Splunk UG Aug 18 2020](https://www.youtube.com/watch?v=jnvmb5pqnxI) - Review of Carbon Black Splunk Add-on and Threat Hunter Dashboard
   - [Carbon Black App for Splunk](https://www.securefever.com/blog/carbon-black-app-for-splunk) - Blog on setting up the Carbon Black App for Splunk.
+- **[Workspace ONE]
+  - [Automating Device Quarantine Feature Walkthrough](https://www.youtube.com/watch?v=bAZIxhkuJhU) - Automation Demo
 - **[Other Integrations]**
   - [Workspace ONE](https://www.youtube.com/watch?v=bAZIxhkuJhU&t=189s) - Carbon Black / Workspace One integration feature walkthrough.
   - [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration with Siemplify.
