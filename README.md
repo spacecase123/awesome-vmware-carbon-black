@@ -62,6 +62,7 @@ A curated list of Carbon Black materials and resources.
 - **[Workspace ONE]**
   - [Workspace ONE Integration Demo](https://www.youtube.com/watch?v=bAZIxhkuJhU&t=189s) - Carbon Black / Workspace One integration feature walkthrough.
   - [Automating Device Quarantine Feature Walkthrough](https://www.youtube.com/watch?v=bAZIxhkuJhU) - Automation Demo
+  - [Custom Connector Sample Collection](https://github.com/vmware-samples/euc-samples/tree/master/Intelligence-Samples/Custom%20Connectors/CarbonBlack) - Automation workflows for Workspace ONE Intelligence
 - **[Other Integrations]**
   - [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration with Siemplify.
   - [Zscaler](https://www.youtube.com/watch?v=dfF-JPmlaXA&t=1s) - [Demo] VMWare Carbon Black and Zscaler in Action
