@@ -29,6 +29,7 @@ A curated list of Carbon Black materials and resources.
 - [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832) - Tips for developing policies and improving them.
 - [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004) - Collection of KBs and discussions showcasing different uses of Live Response
 - [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Valuable insight how VMware enrolled Carbon Black internally. 
+- [A+R Best Practices Guide](https://community.carbonblack.com/t5/Audit-and-Remediation-Documents/Audit-and-Remediation-Best-Practices-Guide/ta-p/102685) - Audit & Remediation Guide / Tutorial
 
 
 ## Cloud Workload Protection
