@@ -16,6 +16,7 @@ A curated list of Carbon Black materials and resources.
 
 ## Official Resources 
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more.
+- [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation.
 - [TAU Tools](https://github.com/carbonblack/tau-tools) - Tools developed by the Threat Analysis Unit.
 - [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series on latest threats and security challenges.
 - [Carbon Black Blog](https://www.carbonblack.com/blog/) - Official Carbon Black blog posts.
@@ -23,14 +24,12 @@ A curated list of Carbon Black materials and resources.
 - [Training](https://www.carbonblack.com/training/) - Official Training.
 
 ## Carbon Black Cloud
-- [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation.
 - [Network Setup](https://community.carbonblack.com/t5/Knowledge-Base/Carbon-Black-Cloud-What-Ports-must-be-opened-on-the-Firewall-and/ta-p/36295) - Ports to be opened on the Firewall and Proxy Servers.
 - [Kirk's Defense Kung Fu Blog](https://community.carbonblack.com/t5/Endpoint-Standard-Documents/Kirk-s-Defense-Kung-Fu-Blog/ta-p/67558) - One of the best sources for good pactises and tips.
+- [A+R Best Practices Guide](https://community.carbonblack.com/t5/Audit-and-Remediation-Documents/Audit-and-Remediation-Best-Practices-Guide/ta-p/102685) - Audit & Remediation Guide / Tutorial
 - [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832) - Tips for developing policies and improving them.
 - [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004) - Collection of KBs and discussions showcasing different uses of Live Response
 - [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Valuable insight how VMware enrolled Carbon Black internally. 
-- [A+R Best Practices Guide](https://community.carbonblack.com/t5/Audit-and-Remediation-Documents/Audit-and-Remediation-Best-Practices-Guide/ta-p/102685) - Audit & Remediation Guide / Tutorial
-
 
 ## Cloud Workload Protection
 - [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation.
@@ -45,7 +44,7 @@ A curated list of Carbon Black materials and resources.
 - [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099) - Hunt for malicious svchost.
 
 ## API
-- [Qt API](https://github.com/slist/cbapi-qt-demo) - Useful tool for comparing policies and more!
+- [Qt API](https://github.com/slist/cbapi-qt-demo) - Useful tool for comparing policies and more.
 - [Automated Response Action](https://community.carbonblack.com/t5/Developer-Relations-Docs/PSC-LiveResponse-Via-Postman-Example-Automated-Response-Actions/ta-p/89567) - Automation of response actions with Live Response and Postman. 
 - [REST API Tutorial Using Postman](https://developer.carbonblack.com/2018/05/cb-defense-rest-api-tutorial-using-postman/) - Tutorial on how to automate API requests with Postman.
 
