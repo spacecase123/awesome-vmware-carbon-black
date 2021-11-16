@@ -16,6 +16,7 @@ A curated list of Carbon Black materials and resources.
 
 ## Official Resources 
 - [User Community](https://community.carbonblack.com/) - Official user community for discussions, threat analysis reports and more.
+- [Carbon Black Tech Zone](https://carbonblack.vmware.com/) - Official technical resources.
 - [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation.
 - [TAU Tools](https://github.com/carbonblack/tau-tools) - Tools developed by the Threat Analysis Unit.
 - [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series on latest threats and security challenges.
@@ -28,7 +29,7 @@ A curated list of Carbon Black materials and resources.
 - [Kirk's Defense Kung Fu Blog](https://community.carbonblack.com/t5/Endpoint-Standard-Documents/Kirk-s-Defense-Kung-Fu-Blog/ta-p/67558) - One of the best sources for good pactises and tips.
 - [A+R Best Practices Guide](https://community.carbonblack.com/t5/Audit-and-Remediation-Documents/Audit-and-Remediation-Best-Practices-Guide/ta-p/102685) - Audit & Remediation Guide / Tutorial
 - [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832) - Tips for developing policies and improving them.
-- [Live Response: Use Cases & Examples](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004) - Collection of KBs and discussions showcasing different uses of Live Response
+- [Live Response: Use Cases](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004) - Collection of KBs and discussions showcasing different uses of Live Response
 - [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Valuable insight how VMware enrolled Carbon Black internally. 
 
 ## Cloud Workload Protection
@@ -55,6 +56,8 @@ A curated list of Carbon Black materials and resources.
 - [Binary Toolkit](https://github.com/carbonblack/cbc-binary-toolkit)
 
 ## Integrations
+- **[Threat Intelligence Feeds]**
+  - [EEDR TAXII Connector](https://www.youtube.com/watch?v=063bzg4jc0U) - How to Ingest 3rd-Party Feeds into Enterprise EDR
 - **[Splunk]**
   - [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk. 
   - [Columbus Splunk UG Aug 18 2020](https://www.youtube.com/watch?v=jnvmb5pqnxI) - Review of Carbon Black Splunk Add-on and Threat Hunter Dashboard
@@ -68,7 +71,7 @@ A curated list of Carbon Black materials and resources.
   - [Zscaler](https://www.youtube.com/watch?v=dfF-JPmlaXA&t=1s) - [Demo] VMWare Carbon Black and Zscaler in Action
   - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise).
 
-## VMworld 2020 Sessions
+## VMworld 2020 Security Sessions
 - [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
 - [Intro to VMware Carbon Black Cloud Workload](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280213246001WZKr)
 - [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
