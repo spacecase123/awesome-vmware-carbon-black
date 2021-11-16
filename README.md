@@ -45,6 +45,7 @@ A curated list of Carbon Black materials and resources.
 - [svchost Hunting](https://community.carbonblack.com/t5/Threat-Research-Docs/Basic-Primer-on-SVCHOST-Threat-Hunting-Queries/ta-p/90099) - Hunt for malicious svchost.
 
 ## API
+- [CBinterface](https://github.com/ace-ecosystem/cbinterface2) - Command line tool and library for interfacing with one or more Carbon Black environments.
 - [Qt API](https://github.com/slist/cbapi-qt-demo) - Useful tool for comparing policies and more.
 - [Automated Response Action](https://community.carbonblack.com/t5/Developer-Relations-Docs/PSC-LiveResponse-Via-Postman-Example-Automated-Response-Actions/ta-p/89567) - Automation of response actions with Live Response and Postman. 
 - [REST API Tutorial Using Postman](https://developer.carbonblack.com/2018/05/cb-defense-rest-api-tutorial-using-postman/) - Tutorial on how to automate API requests with Postman.
