@@ -73,7 +73,6 @@ A curated list of Carbon Black materials and resources.
 
 ## VMworld 2020 Security Sessions
 - [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
-- [Intro to VMware Carbon Black Cloud Workload](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280213246001WZKr)
 - [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
 - [Flexibly SOAR Toward API Functionality With Carbon Black](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1585033737089001NaRI)
 - [VMware Security: VMware Carbon Black Cloud and Workspace ONE Intelligence](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1584621522711001DIlS)
