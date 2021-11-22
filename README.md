@@ -74,10 +74,9 @@ A curated list of Carbon Black materials and resources.
 
 ## VMworld Security Sessions
 - **[2021]**
-  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623438655746001ZJID](Operationalizing VMware Carbon Black Cloud for the Modern SOC)
-  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1618427183531001fOTg](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1618427183531001fOTg)
-  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623440342221001DlsF](Ground Truth: From Threat Research to Prevention)
-  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623439178418001gIKb](How to Evolve Your SOC with the MITRE ATT&CK Framework)
+  - [Operationalizing VMware Carbon Black Cloud for the Modern SOC](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623438655746001ZJID)
+  - [Ground Truth: From Threat Research to Prevention](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623440342221001DlsF)
+  - [How to Evolve Your SOC with the MITRE ATT&CK Framework](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623439178418001gIKb)
 - **[2020]**
   - [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
   - [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
