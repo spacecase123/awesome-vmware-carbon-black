@@ -72,10 +72,16 @@ A curated list of Carbon Black materials and resources.
   - [Zscaler](https://www.youtube.com/watch?v=dfF-JPmlaXA&t=1s) - [Demo] VMWare Carbon Black and Zscaler in Action
   - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise).
 
-## VMworld 2020 Security Sessions
-- [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
-- [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
-- [Flexibly SOAR Toward API Functionality With Carbon Black](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1585033737089001NaRI)
-- [VMware Security: VMware Carbon Black Cloud and Workspace ONE Intelligence](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1584621522711001DIlS)
-- [XDR EDR: How VMware's Integrations Re-Shape Protecting Your Assets](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596214249540001Eav9)
-- [Become a Threat Hunter](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591217036405001PNXo)
+## VMworld Security Sessions
+- **[2021]**
+  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623438655746001ZJID](Operationalizing VMware Carbon Black Cloud for the Modern SOC)
+  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1618427183531001fOTg](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1618427183531001fOTg)
+  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623440342221001DlsF](Ground Truth: From Threat Research to Prevention)
+  - [https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623439178418001gIKb](How to Evolve Your SOC with the MITRE ATT&CK Framework)
+- **[2020]**
+  - [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
+  - [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
+  - [Flexibly SOAR Toward API Functionality With Carbon Black](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1585033737089001NaRI)
+  - [VMware Security: VMware Carbon Black Cloud and Workspace ONE Intelligence](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1584621522711001DIlS)
+  - [XDR EDR: How VMware's Integrations Re-Shape Protecting Your Assets](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596214249540001Eav9)
+  - [Become a Threat Hunter](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591217036405001PNXo)
