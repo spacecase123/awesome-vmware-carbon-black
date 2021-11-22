@@ -73,10 +73,12 @@ A curated list of Carbon Black materials and resources.
   - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise).
 
 ## VMworld Security Sessions
+VMworld login required. 
 - **[2021]**
   - [Operationalizing VMware Carbon Black Cloud for the Modern SOC](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623438655746001ZJID)
   - [Ground Truth: From Threat Research to Prevention](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623440342221001DlsF)
   - [How to Evolve Your SOC with the MITRE ATT&CK Framework](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1623439178418001gIKb)
+  - [The Future of Security in Cloud Native Architecture](https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1618427183531001fOTg)
 - **[2020]**
   - [The "Future Ready" Security Operations Center](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1596071231908001rlwZ)
   - [Comprehensive Workload Security: vSphere, NSX, and Carbon Black Cloud](https://www.vmworld.com/en/video-library/video-landing.html?sessionid=1591280408543001VI9S)
