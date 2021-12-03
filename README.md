@@ -20,6 +20,7 @@ A curated list of Carbon Black materials and resources.
 - [Documentation CBC](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud/services/carbon-black-cloud-user-guide/GUID-E55A92B9-B0C8-481E-97A0-61B997F4EAD3.html) - Official Carbon Black Cloud documentation.
 - [TAU Tools](https://github.com/carbonblack/tau-tools) - Tools developed by the Threat Analysis Unit.
 - [Ask The Howlers](https://www.carbonblack.com/resources/ask-the-howlers/) - Webinar series on latest threats and security challenges.
+- [Ask me Anything Series](https://community.carbonblack.com/t5/Events-Webinars-Documents/Ask-Me-Anything-Series/ta-p/62740) - AMA Series on AppC, EDR and CBC.
 - [Carbon Black Blog](https://www.carbonblack.com/blog/) - Official Carbon Black blog posts.
 - [Youtube](https://www.youtube.com/c/Carbonblack-Incorporated/) - Official Youtube channel.
 - [Training](https://www.carbonblack.com/training/) - Official Training.
