@@ -70,8 +70,9 @@ A curated list of Carbon Black materials and resources.
   - [Custom Connector Sample Collection](https://github.com/vmware-samples/euc-samples/tree/master/Intelligence-Samples/Custom%20Connectors/CarbonBlack) - Automation workflows for Workspace ONE Intelligence
 - **[Other Integrations]**
   - [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration with Siemplify.
-  - [Zscaler](https://www.youtube.com/watch?v=dfF-JPmlaXA&t=1s) - [Demo] VMWare Carbon Black and Zscaler in Action
+  - [Zscaler](https://www.youtube.com/watch?v=dfF-JPmlaXA&t=1s) - [Demo] VMWare Carbon Black and Zscaler in Action.
   - [MISP](https://github.com/eCrimeLabs/MISP2CbR) - MISP Integration for EDR (On-Premise).
+  - [QRadar](https://exchange.xforce.ibmcloud.com/hub/extension/e23310efdf0dce9d1631698748eed7b9) - Carbon Black Cloud QRadar App V2
 
 ## VMworld Security Sessions
 VMworld login required. 
