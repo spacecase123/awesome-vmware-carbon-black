@@ -60,6 +60,7 @@ A curated list of Carbon Black materials and resources.
 
 ## Integrations
 - **[Threat Intelligence Feeds]**
+  - [CB Open-Source Intel](https://github.com/ncomeau/CB_Open_Source_Intel) - Import tool for custom threat intelligence feeds
   - [EEDR TAXII Connector](https://www.youtube.com/watch?v=063bzg4jc0U) - How to Ingest 3rd-Party Feeds into Enterprise EDR
 - **[Splunk]**
   - [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk. 
