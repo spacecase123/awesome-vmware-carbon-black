@@ -11,7 +11,7 @@ A curated list of Carbon Black materials and resources.
 - [API](#api)
 - [Development](#development)
 - [Integrations](#integrations)
-- [VMworld Sessions](#vmworld-sessions)
+- [VMworld Sessions](#vmworld-security-sessions)
 
 
 ## Official Resources 
