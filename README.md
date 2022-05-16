@@ -28,15 +28,15 @@ A curated list of Carbon Black materials and resources.
 ## Carbon Black Cloud
 - [Network Setup](https://community.carbonblack.com/t5/Knowledge-Base/Carbon-Black-Cloud-What-Ports-must-be-opened-on-the-Firewall-and/ta-p/36295) - Ports to be opened on the Firewall and Proxy Servers.
 - [Kirk's Defense Kung Fu Blog](https://community.carbonblack.com/t5/Endpoint-Standard-Documents/Kirk-s-Defense-Kung-Fu-Blog/ta-p/67558) - One of the best sources for good pactises and tips.
-- [A+R Best Practices Guide](https://community.carbonblack.com/t5/Audit-and-Remediation-Documents/Audit-and-Remediation-Best-Practices-Guide/ta-p/102685) - Audit & Remediation Guide / Tutorial
+- [A+R Best Practices Guide](https://community.carbonblack.com/t5/Audit-and-Remediation-Documents/Audit-and-Remediation-Best-Practices-Guide/ta-p/102685) - Audit & Remediation Guide / Tutorial.
 - [Good, Better, Best Policies](https://community.carbonblack.com/t5/Endpoint-Standard-Discussions/Endpoint-Standard-Achieving-Good-Better-and-Best-Policies/m-p/40957/highlight/true#M3832) - Tips for developing policies and improving them.
-- [Live Response: Use Cases](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004) - Collection of KBs and discussions showcasing different uses of Live Response
+- [Live Response: Use Cases](https://community.carbonblack.com/t5/Best-Practices/Live-Response-Use-Cases-and-Examples/gpm-p/80004) - Collection of KBs and discussions showcasing different uses of Live Response.
 - [How VMware IT Deployed and Adopted Carbon Black Cloud](https://www.youtube.com/watch?v=VDrxddC3uHg&t=990s) - Valuable insight how VMware enrolled Carbon Black internally. 
 
 ## Cloud Workload Protection
 - [Documentation CWP](https://docs-staging.vmware.com/en/VMware-Carbon-Black-Cloud-Workload/index.html) - Official CWP documentation.
 - [Modern Clouds](https://modernclouds.blog/2021/01/19/unboxing-the-new-carbon-black-container-security-solution/) - Unboxing the new VMware Carbon Black container security solution.
-- [Container Security: VMC on AWS](https://www.securefever.com/blog/vmware-carbon-black-cloud-container-security-with-vmc-on-aws) - VMware Carbon Black Cloud Container Security with VMC on AWS
+- [Container Security: VMC on AWS](https://www.securefever.com/blog/vmware-carbon-black-cloud-container-security-with-vmc-on-aws) - VMware Carbon Black Cloud Container Security with VMC on AWS.
 
 ## Threat Hunting
 - [Recon Hunt Queries](https://rhq.reconinfosec.com/) - Audit & Remediation queries for incident response & threat hunting.
@@ -60,16 +60,16 @@ A curated list of Carbon Black materials and resources.
 
 ## Integrations
 - **[Threat Intelligence Feeds]**
-  - [CB Open-Source Intel](https://github.com/ncomeau/CB_Open_Source_Intel) - Import tool for custom threat intelligence feeds
-  - [EEDR TAXII Connector](https://www.youtube.com/watch?v=063bzg4jc0U) - How to Ingest 3rd-Party Feeds into Enterprise EDR
+  - [CB Open-Source Intel](https://github.com/ncomeau/CB_Open_Source_Intel) - Import tool for custom threat intelligence feeds.
+  - [EEDR TAXII Connector](https://www.youtube.com/watch?v=063bzg4jc0U) - How to Ingest 3rd-Party Feeds into Enterprise EDR.
 - **[Splunk]**
   - [Splunk App](https://splunkbase.splunk.com/app/5332/) - Carbon Black App for Splunk. 
-  - [Columbus Splunk UG Aug 18 2020](https://www.youtube.com/watch?v=jnvmb5pqnxI) - Review of Carbon Black Splunk Add-on and Threat Hunter Dashboard
+  - [Columbus Splunk UG Aug 18 2020](https://www.youtube.com/watch?v=jnvmb5pqnxI) - Review of Carbon Black Splunk Add-on and Threat Hunter Dashboard.
   - [Carbon Black App for Splunk](https://www.securefever.com/blog/carbon-black-app-for-splunk) - Blog on setting up the Carbon Black App for Splunk.
 - **[Workspace ONE]**
   - [Workspace ONE Integration Demo](https://www.youtube.com/watch?v=bAZIxhkuJhU&t=189s) - Carbon Black / Workspace One integration feature walkthrough.
-  - [Automating Device Quarantine Feature Walkthrough](https://www.youtube.com/watch?v=bAZIxhkuJhU) - Automation Demo
-  - [Custom Connector Sample Collection](https://github.com/vmware-samples/euc-samples/tree/master/Intelligence-Samples/Custom%20Connectors/CarbonBlack) - Automation workflows for Workspace ONE Intelligence
+  - [Automating Device Quarantine Feature Walkthrough](https://www.youtube.com/watch?v=bAZIxhkuJhU) - Automation Demo.
+  - [Custom Connector Sample Collection](https://github.com/vmware-samples/euc-samples/tree/master/Intelligence-Samples/Custom%20Connectors/CarbonBlack) - Automation workflows for Workspace ONE Intelligence.
 - **[Other Integrations]**
   - [Siemplify](https://www.siemplify.co/partners/carbon-black/) - SOAR integration with Siemplify.
   - [Zscaler](https://www.youtube.com/watch?v=dfF-JPmlaXA&t=1s) - [Demo] VMWare Carbon Black and Zscaler in Action.
